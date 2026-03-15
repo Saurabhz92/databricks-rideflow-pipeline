@@ -258,11 +258,4 @@ Partitioned by `(event_date, city)`.
                                                                     └── Other hours: skip_maintenance
                                                                          ↓
                                                                   send_pipeline_report
-```
 
----
-
-## 📝 License
-
-MIT — For educational and interview demonstration purposes.
->>>>>>> f798cc1 (🚀 Initial commit: RideFlow Real-Time Databricks Analytics Platform)
