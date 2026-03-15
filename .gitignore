@@ -1,0 +1,31 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Environment
+.env
+*.env
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store
+
+# Spark
+spark-warehouse/
+derby.log
+
+# Airflow
+airflow.db
+airflow.cfg
+logs/
+
+# Databricks
+.databricks/
+
+# Docker
+docker-compose.override.yml
