@@ -238,7 +238,7 @@ Partitioned by `(event_date, city)`.
 
 ---
 
-## 🎯 FAANG Interview Talking Points
+## 🎯 Talking Points
 
 1. **Exactly-Once Semantics**: Kafka idempotent producer + Spark checkpointing + Delta ACID = end-to-end exactly-once
 2. **Backpressure**: `maxOffsetsPerTrigger` prevents Spark from overwhelming downstream Delta writers during traffic spikes
