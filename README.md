@@ -1,5 +1,5 @@
 
-# databricks-rideflow-pipeline
+# Databricks-Rideflow-Pipeline
 FAANG-Level Real-Time Ride Sharing Analytics Platform — Databricks Lakehouse
 =======
 # 🚗 RideFlow Analytics Platform
