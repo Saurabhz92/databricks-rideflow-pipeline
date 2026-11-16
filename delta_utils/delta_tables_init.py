@@ -1,6 +1,6 @@
 """
 =============================================================================
-  RideFlow — Delta Lake Utilities
+  RideFlow — delta Lake Utilities
   
   Covers:
   1. Table initialisation (DDL + TBLPROPERTIES)
